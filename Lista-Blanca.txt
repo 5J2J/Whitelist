@@ -2756,7 +2756,6 @@ account.np.ac.playstation.net
 account.np.ac.playstation.net.edgekey.net
 account.nvidia.com
 account.oneplus.com
-account.ookla.com
 account.origin.com
 account.otoy.com
 account.pbs.org
@@ -2774,7 +2773,6 @@ account.shodan.io
 account.skrill.com
 account.snap.com
 account.sonymobile.com
-account.speedtestcustom.com
 account.synology.com
 account.tecoenergy.com
 account.thehartford.com
@@ -8632,7 +8630,6 @@ api.ok.ru
 api.okendo.io
 api.onedrive.com
 api.onesignal.com
-api.ookla.com
 api.ooyala.com
 api.opap.gr
 api.opencritic.com
@@ -11973,7 +11970,6 @@ b.allegroimg.com
 b.bdstatic.com
 b.br
 b.cdnbrm.com
-b.cdnst.net
 b.config.skype.com
 b.disquscdn.com
 b.dl.redcrossblood.org
@@ -15363,8 +15359,8 @@ birdsandblooms.com
 birdsend.net
 birdwatchersdigest.com
 birdwatchingbuzz.com
-bireysel-zã®raat.com
-bireysel-zîraat.com
+bireysel-zÃ£Â®raat.com
+bireysel-zÃ®raat.com
 bireysel.payfix.com.tr
 bireysel.turkishbank.com
 biri.com.tr
@@ -18745,7 +18741,6 @@ c.seznam.cz
 c.shamekh.ws
 c.shld.net
 c.singular.net
-c.speedtestcustom.com
 c.spiegel.de
 c.storage.googleapis.com
 c.t-online.de
@@ -22943,9 +22938,7 @@ chiba-tv.com
 chiba-u.ac.jp
 chic.ag
 chicago.cbslocal.com
-chicago.il.speedtest.frontier.com
 chicago.suntimes.com
-chicago02.speedtest.windstream.net
 chicago1.cabospeed.com
 chicago2.vip.townnews.com
 chicagobooth.edu
@@ -30451,7 +30444,6 @@ cyberir.koscom.co.kr
 cyberlaw.stanford.edu
 cyberlink.com
 cyberlinks.io
-cyberlynk.speedtestcustom.com
 cybermap.kaspersky.com
 cybermarketing.ru
 cybermed.edu.my
@@ -35616,7 +35608,6 @@ ds.kaspersky.com
 ds.metric.gstatic.com
 ds.pn
 ds.prod.vidible.tv
-ds.testmyipv6.com
 ds1.nl
 ds106.us
 ds4q8c259towh.cloudfront.net
@@ -69816,7 +69807,6 @@ logon.online.anz.com
 logon.taccu.org
 logos.com
 logos.com.hk
-logos.speedtestcustom.com
 logos.statbroadcast.com
 logout.mi.com
 logout.xiaomi.com
@@ -75922,7 +75912,6 @@ megaloh.de
 megamozg.ru
 megapath.com
 megapath.net
-megapath.speedtestcustom.com
 megapay.sviaz-bank.ru
 megapbx.ru
 megaphone.fm
@@ -80655,7 +80644,7 @@ myyearbook.com
 myyogaonline.com
 myz.info
 myzyia.com
-myètherwället.com
+myÃ¨therwÃ¤llet.com
 mz-ac.de
 mz.cm
 mzansi.porn
@@ -80665,7 +80654,7 @@ mzlw.de
 mzstatic.com
 mzumbe.ac.tz
 mzuni.ac.mw
-mÿethèrwallét.com
+mÃ¿ethÃ¨rwallÃ©t.com
 n-4-1.dcs.redcdn.pl
 n-4-2.dcs.redcdn.pl
 n-4-3.dcs.redcdn.pl
@@ -81786,7 +81775,6 @@ netjoven.com
 netlify.com
 netlog.com
 netme.cc
-netmede.pt
 netmedia.co.id
 netmera-web.com
 netmera.com
@@ -83678,7 +83666,6 @@ npcc.edu
 npcts.edu
 npd.com
 npdl.cdn.nintendowifi.net
-nperf.com
 npesb.com
 npeu.ox.ac.uk
 nphone.daum.net
@@ -85945,7 +85932,7 @@ onlinebanking-fuggerbank.de
 onlinebanking-g1c-cert.fiservapps.com
 onlinebanking-grenkebank.de
 onlinebanking-herzogpark.eu
-onlinebanking-hüttenberger-bank.de
+onlinebanking-hÃ¼ttenberger-bank.de
 onlinebanking-ibb-ag.com
 onlinebanking-meine-bank.de
 onlinebanking-northchannelbank.de
@@ -86217,7 +86204,6 @@ ooblets.com
 oogazone.com
 oogle.com
 oogtv.nl
-ookla.com
 ookla1.joink.com
 oolman.com
 ooma.sjv.io
@@ -86286,7 +86272,6 @@ open.bee.com
 open.boc.cn
 open.boomplaymusic.com
 open.bytedanceapi.com
-open.cachefly.net
 open.camscanner.com
 open.com.hk
 open.concur.com
@@ -86542,7 +86527,6 @@ opensource.nchc.org.tw
 opensource.org
 opensource.samsung.com
 openspace.ru
-openspeedtest.com
 openspeedtest.scdn1.secure.raxcdn.com
 opensprinkler.com
 opensrs.com
@@ -100788,9 +100772,9 @@ secret.google.com
 secret.ly
 secret.xn--oogle-3fa01c.com
 secret.xn--oogle-wmc.com
-secret.ã‰â¢oogle.com
-secret.é¢oogle.com
-secret.ɢoogle.com
+secret.Ã£â€°Ã¢Â¢oogle.com
+secret.Ã©Â¢oogle.com
+secret.É¢oogle.com
 secretchina.com
 secretcinema.org
 secretenergy.com
@@ -103418,8 +103402,6 @@ sinus.ac.id
 sinyi.biz
 sinyi.in
 sionyx.com
-sioux-city.speedtest.centurylink.net
-sioux-falls.speedtest.centurylink.net
 siouxcity.craigslist.org
 siouxcity1.cabospeed.com
 siouxcityjobs.com
@@ -105823,8 +105805,6 @@ speed4.snap.net.nz
 speed4up.com
 speedbit.com
 speedcheck.ky
-speedcheck.org
-speedcheckercdn.com
 speedcubeshop.com
 speedcurve.com
 speedd.net
@@ -105874,7 +105854,6 @@ speedtest.nebraskalink.com
 speedtest.northcentraltower.com
 speedtest.orangecountyfiber.coop
 speedtest.ord6.servercentral.net
-speedtest.org
 speedtest.premieronline.net
 speedtest.sdncommunications.com
 speedtest.smithville.com
@@ -105889,7 +105868,6 @@ speedtest1.ord6.servercentral.net
 speedtest1.vinakom.com
 speedtest2.habari.co.tz
 speedtest2.psci.net
-speedtestcustom.com
 speedtesteast.goldenwest.net
 speedtracktales.com
 speedturtleengineering.com
@@ -108230,7 +108208,6 @@ status.linode.com
 status.newrelic.com
 status.nicehash.com
 status.office365.com
-status.ookla.com
 status.playstation.com
 status.plex.tv
 status.pro.coinbase.com
@@ -112484,7 +112461,6 @@ testflight.apple.com
 testguy.net
 testhomepage.com
 testkitchen.huffingtonpost.com
-testmyipv6.com
 testmysite.thinkwithgoogle.com
 testmysite.withgoogle.com
 testo.com
@@ -120919,7 +120895,6 @@ upload.facebook.com
 upload.fp.measure.office.com
 upload.gifshow.com
 upload.gossipcop.com
-upload.openspeedtest.com
 upload.pushbullet.com
 upload.rapidvideo.com
 upload.twitter.com
@@ -120940,7 +120915,6 @@ uploaded.to
 uploadfiles.io
 uploadhouse.com
 uploading.com
-uploadnj.openspeedtest.com
 uploadocean.com
 uploadrocket.net
 uploads-regional.twitch.tv
@@ -122359,7 +122333,6 @@ v3g.es
 v3r.net
 v4.download.windowsupdate.com
 v4.ident.me
-v4.testmyipv6.com
 v4.windowsupdate.microsoft.com
 v5-skvod.kwaicdn.com
 v5.douyinvod.com.zjgslb.com
@@ -122368,7 +122341,6 @@ v6-gdvod.kwaicdn.com
 v6-tracker.0g.cx
 v6.ident.me
 v6.kwaicdn.com
-v6.testmyipv6.com
 v6download.com
 v6lvs.com
 v6ncsi.msedge.net
@@ -129739,7 +129711,6 @@ www.account.bolt.com
 www.account.box.com
 www.account.otoy.com
 www.account.samsung.com
-www.account.speedtestcustom.com
 www.account.woot.com
 www.account3000.com
 www.accountantforums.com
@@ -137812,7 +137783,6 @@ www.c.booking.com
 www.c.disquscdn.com
 www.c.s-microsoft.com
 www.c.shamekh.ws
-www.c.speedtestcustom.com
 www.c.tile.openstreetmap.org
 www.c.trello.com
 www.c.ypcdn.com
@@ -142538,7 +142508,6 @@ www.cyberhost.uk
 www.cyberia.is
 www.cyberinc.nl
 www.cyberlink.com
-www.cyberlynk.speedtestcustom.com
 www.cybermarketing.ru
 www.cybermind-usa.net
 www.cyberneticzoo.com
@@ -154587,8 +154556,8 @@ www.htworkshop.com
 www.htxt.it
 www.huaban.com
 www.hualane.cl
-www.hualaã±e.cl
-www.hualañe.cl
+www.hualaÃ£Â±e.cl
+www.hualaÃ±e.cl
 www.huami.com
 www.huangkitchen.com
 www.huanqiu.com
@@ -160994,7 +160963,6 @@ www.logo.tv
 www.logocore.com
 www.logolynx.com
 www.logos.com
-www.logos.speedtestcustom.com
 www.logos.statbroadcast.com
 www.logoscdn.com
 www.logrocket.com
@@ -162865,7 +162833,6 @@ www.megaloh.de
 www.megamozg.ru
 www.megapath.com
 www.megapath.net
-www.megapath.speedtestcustom.com
 www.megapbx.ru
 www.megaphone.fm
 www.megaphone.imgix.net
@@ -166094,7 +166061,6 @@ www.netlify.com
 www.netlinux.cl
 www.netlog.com
 www.netmarble.com
-www.netmede.pt
 www.netminers.dk
 www.netmng.com
 www.netmobius.freetls.fastly.net
@@ -167158,7 +167124,6 @@ www.npage.de
 www.npbank.ru
 www.npd.ca
 www.npd.com
-www.nperf.com
 www.npesb.com
 www.npfcu.com
 www.npfcu.org
@@ -168264,7 +168229,6 @@ www.ooblets.com
 www.oogazone.com
 www.oogle.com
 www.oogtv.nl
-www.ookla.com
 www.oolman.com
 www.ooni.io
 www.oooninja.com
@@ -168294,7 +168258,6 @@ www.opelbank.de
 www.open-audit.org
 www.open-power-system-data.org
 www.open-tracker.org
-www.open.cachefly.net
 www.open.edu
 www.open.fm
 www.open.gl
@@ -168391,7 +168354,6 @@ www.opensooq.com
 www.opensource.com
 www.opensource.org
 www.openspace.ru
-www.openspeedtest.com
 www.opensprinkler.com
 www.opensrs.com
 www.openssl.org
@@ -178805,8 +178767,6 @@ www.speed-battle.com
 www.speed4up.com
 www.speedbit.com
 www.speedcheck.ky
-www.speedcheck.org
-www.speedcheckercdn.com
 www.speedcubeshop.com
 www.speedcurve.com
 www.speeddemosarchive.com
@@ -178823,10 +178783,8 @@ www.speedsociety.com
 www.speedsolving.com
 www.speedtest-net.org
 www.speedtest.afnfttx.net
-www.speedtest.org
 www.speedtest.premieronline.net
 www.speedtest.ssl.zendesk.com
-www.speedtestcustom.com
 www.speedtracktales.com
 www.speedturtleengineering.com
 www.speedtv.com
@@ -184391,8 +184349,8 @@ www.turkishairlines.com
 www.turkishbank.com
 www.turkishbankers.org
 www.turkishcards.com
+www.turkishÃ¡ÂºÂ¡irlines.com
 www.turkisháº¡irlines.com
-www.turkishạirlines.com
 www.turktelekommuzik.com
 www.turkturk.net
 www.turkturk.org
